@@ -17,6 +17,7 @@ A 5-agent Python pipeline powered by the Claude API. Each agent has a single, sc
 
 
 \## Agent Architecture
+![Workflow Diagram](workflow.svg)
 
 
 
